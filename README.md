@@ -8,21 +8,57 @@
 
 ---
 
-I'm a highly motivated computer science student with a passion for web development, always eager to learn and push my boundaries. I love exploring new technologies and turning creative ideas into reality!
+## 🚀 Featured Projects
+
+<div align="center" style="border: 2px solid #00b4d8; border-radius: 12px; padding: 15px; background-color: #0d1117;">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Status</th>
+  </tr>
+
+  <tr>
+    <td>🎮 <a href="https://github.com/AbdullAmeen/TicTacToe-game"><b>TicTacToe-game</b></a></td>
+    <td>A fresh take on the classic TicTacToe — play with friends or AI right in your browser!</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>📺 <a href="https://github.com/AbdullAmeen/Youtube_clown"><b>Youtube_clown</b></a></td>
+    <td>A playful, YouTube-inspired video platform made completely from scratch.</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>🎬 <a href="https://github.com/AbdullAmeen/Netflix-clown"><b>Netflix-clown</b></a></td>
+    <td>A sleek Netflix-like streaming UI built for fun and learning.</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>🛒 <a href="https://github.com/AbdullAmeen/Amazon_clown"><b>Amazon_clown</b></a></td>
+    <td>A mini Amazon clone — browse, shop, and explore e-commerce design ideas.</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>🌐 <b>Portfolio Website</b></td>
+    <td>My personal portfolio site — launching soon!</td>
+    <td>🚧 Coming Soon</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
-
-- [**TicTacToe-game**](https://github.com/AbdullAmeen/TicTacToe-game): A fresh take on the classic TicTacToe—play with friends or AI right in your browser!
-- [**Youtube_clown**](https://github.com/AbdullAmeen/Youtube_clown): Dive into a playful, YouTube-inspired video platform made from scratch.
-- [**Netflix-clown**](https://github.com/AbdullAmeen/Netflix-clown): Experience a sleek Netflix-like streaming UI, crafted for fun and learning.
-- [**Amazon_clown**](https://github.com/AbdullAmeen/Amazon_clown): Explore a mini Amazon clone—shop, browse, and get inspired by e-commerce design.
-- **Upcoming:** My personal portfolio website is launching soon. Stay tuned!
-
-Always exploring new ideas, building projects to challenge myself, and looking for opportunities to collaborate. If you're interested in working together or just want to connect, feel free to reach out!
+💬 *Always exploring new ideas, building projects to challenge myself, and looking for opportunities to collaborate.  
+If you’d like to connect or work together, feel free to reach out!* 🤝
 
 ---
+
 
 <p align="center">
   <b>Thanks for stopping by!</b><br>
